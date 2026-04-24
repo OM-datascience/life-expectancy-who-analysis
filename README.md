@@ -17,7 +17,7 @@ Key Findings:
   developing nations on average (statistically proven, 
   t = 29.8052, p < 0.001)
 - Schooling is the strongest positive predictor 
-  (r = 0.7151) — each additional year of education 
+  (r = 0.7151) - each additional year of education 
   increases life expectancy by approximately 1 year
 - HIV/AIDS prevalence is the most damaging factor 
   (r = -0.5565, coefficient = -0.4899)
@@ -37,12 +37,12 @@ ______________________
 
 Tools and Libraries:
 
-Python 3 — Google Colab
-pandas — data manipulation
-numpy — numerical operations
-scipy — correlation and hypothesis testing
-statsmodels — regression analysis
-seaborn and matplotlib — data visualisation
+Python 3 - Google Colab
+pandas - data manipulation
+numpy - numerical operations
+scipy - correlation and hypothesis testing
+statsmodels - regression analysis
+seaborn and matplotlib - data visualisation
 
 __________________________
 
@@ -56,10 +56,10 @@ ___________________________
 
 Repository Structure:
 
-analysis.ipynb — complete Python analysis notebook
-Life Expectancy Data.csv — raw dataset
-graphs/ — all visualisation outputs
-report/ — full project report PDF
+analysis.ipynb - complete Python analysis notebook
+Life Expectancy Data.csv - raw dataset
+graphs/ - all visualisation outputs
+report/ - full project report PDF
 
 ___________________________
 
