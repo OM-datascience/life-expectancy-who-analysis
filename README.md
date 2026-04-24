@@ -8,6 +8,16 @@ WHO Global Health Observatory data covering 2000 to 2015.
 Submitted as MSc Statistics project at Udai Pratap 
 Autonomous College, Mahatma Gandhi Kashi Vidyapith, Varanasi.
 ___________________________
+--> Why This Analysis Matters : 
+
+Most people assume GDP is the strongest predictor of 
+how long a nation lives. This analysis of 2,938 
+observations across 193 countries shows it isn't. 
+Schooling outperforms GDP, healthcare spending, and 
+immunisation coverage combined. The statistical 
+evidence is unambiguous - and the policy implication 
+is direct.
+_______________________
 
 Key Findings:
 
